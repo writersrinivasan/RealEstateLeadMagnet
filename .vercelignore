@@ -1,0 +1,4 @@
+# The Python Microsoft Agent Framework service runs separately (local/Render/Railway/Azure),
+# not on Vercel. Excluding it stops Vercel from detecting a FastAPI app.
+agent-service/
+samples/
