@@ -1,0 +1,5 @@
+name,phone,email,city,neighborhood,intent,propertyType,budgetMin,budgetMax,timelineMonths,financing,source,engagement,notes
+Ava Thompson,(512) 555-0111,ava.t@example.com,Austin,Bouldin Creek,buy,Single-family home,650000,780000,2,pre-approved,Portal Inquiry,8,"Requested two showings, asked about schools"
+Marcus Lee,(512) 555-0122,marcus.lee@example.com,Austin,Allandale,sell,Single-family home,850000,950000,4,cash,Expired Listing,5,Listing expired after 120 days
+Julia Santos,(512) 555-0133,julia.s@example.com,Austin,Riverside,invest,Fourplex,1200000,1500000,6,cash,Referral,6,Looking for cash-flow positive multifamily
+Ben Carter,(512) 555-0144,ben.c@example.com,Austin,Georgetown,buy,Townhouse,300000,360000,12,needs-mortgage,Social Ads,2,Downloaded first-time buyer guide
